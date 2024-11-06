@@ -1,0 +1,445 @@
+{
+    "tinh_thanh_pho": [
+        {
+            "ten": "Hà Nội",
+            "toado": {
+                "vi_do": 21.028511,
+                "kinh_do": 105.804817
+            }
+        },
+        {
+            "ten": "TP Hồ Chí Minh",
+            "toado": {
+                "vi_do": 10.823099,
+                "kinh_do": 106.629662
+            }
+        },
+        {
+            "ten": "Đà Nẵng",
+            "toado": {
+                "vi_do": 16.047079,
+                "kinh_do": 108.20623
+            }
+        },
+        {
+            "ten": "Hải Phòng",
+            "toado": {
+                "vi_do": 20.844912,
+                "kinh_do": 106.688087
+            }
+        },
+        {
+            "ten": "Cần Thơ",
+            "toado": {
+                "vi_do": 10.045162,
+                "kinh_do": 105.746857
+            }
+        },
+        {
+            "ten": "An Giang",
+            "toado": {
+                "vi_do": 10.521583,
+                "kinh_do": 105.125893
+            }
+        },
+        {
+            "ten": "Bà Rịa - Vũng Tàu",
+            "toado": {
+                "vi_do": 10.541739,
+                "kinh_do": 107.242997
+            }
+        },
+        {
+            "ten": "Bắc Giang",
+            "toado": {
+                "vi_do": 21.273109,
+                "kinh_do": 106.194465
+            }
+        },
+        {
+            "ten": "Bắc Kạn",
+            "toado": {
+                "vi_do": 22.148512,
+                "kinh_do": 105.83416
+            }
+        },
+        {
+            "ten": "Bạc Liêu",
+            "toado": {
+                "vi_do": 9.294136,
+                "kinh_do": 105.72776
+            }
+        },
+        {
+            "ten": "Bắc Ninh",
+            "toado": {
+                "vi_do": 21.18608,
+                "kinh_do": 106.076431
+            }
+        },
+        {
+            "ten": "Bến Tre",
+            "toado": {
+                "vi_do": 10.233453,
+                "kinh_do": 106.375557
+            }
+        },
+        {
+            "ten": "Bình Định",
+            "toado": {
+                "vi_do": 13.78298,
+                "kinh_do": 109.219261
+            }
+        },
+        {
+            "ten": "Bình Dương",
+            "toado": {
+                "vi_do": 11.17325,
+                "kinh_do": 106.663055
+            }
+        },
+        {
+            "ten": "Bình Phước",
+            "toado": {
+                "vi_do": 11.751189,
+                "kinh_do": 106.723464
+            }
+        },
+        {
+            "ten": "Bình Thuận",
+            "toado": {
+                "vi_do": 10.9801,
+                "kinh_do": 108.252985
+            }
+        },
+        {
+            "ten": "Cà Mau",
+            "toado": {
+                "vi_do": 9.176946,
+                "kinh_do": 105.15242
+            }
+        },
+        {
+            "ten": "Cao Bằng",
+            "toado": {
+                "vi_do": 22.665158,
+                "kinh_do": 106.257439
+            }
+        },
+        {
+            "ten": "Đắk Lắk",
+            "toado": {
+                "vi_do": 12.686915,
+                "kinh_do": 108.045883
+            }
+        },
+        {
+            "ten": "Đắk Nông",
+            "toado": {
+                "vi_do": 12.264647,
+                "kinh_do": 107.60981
+            }
+        },
+        {
+            "ten": "Điện Biên",
+            "toado": {
+                "vi_do": 21.38602,
+                "kinh_do": 103.016693
+            }
+        },
+        {
+            "ten": "Đồng Nai",
+            "toado": {
+                "vi_do": 11.01957,
+                "kinh_do": 107.004783
+            }
+        },
+        {
+            "ten": "Đồng Tháp",
+            "toado": {
+                "vi_do": 10.53522,
+                "kinh_do": 105.652832
+            }
+        },
+        {
+            "ten": "Gia Lai",
+            "toado": {
+                "vi_do": 13.971197,
+                "kinh_do": 108.018822
+            }
+        },
+        {
+            "ten": "Hà Giang",
+            "toado": {
+                "vi_do": 22.765276,
+                "kinh_do": 104.953048
+            }
+        },
+        {
+            "ten": "Hà Nam",
+            "toado": {
+                "vi_do": 20.583519,
+                "kinh_do": 105.922989
+            }
+        },
+        {
+            "ten": "Hà Tĩnh",
+            "toado": {
+                "vi_do": 18.343501,
+                "kinh_do": 105.902306
+            }
+        },
+        {
+            "ten": "Hải Dương",
+            "toado": {
+                "vi_do": 20.93734,
+                "kinh_do": 106.314583
+            }
+        },
+        {
+            "ten": "Hậu Giang",
+            "toado": {
+                "vi_do": 9.784418,
+                "kinh_do": 105.470001
+            }
+        },
+        {
+            "ten": "Hoà Bình",
+            "toado": {
+                "vi_do": 20.686091,
+                "kinh_do": 105.313118
+            }
+        },
+        {
+            "ten": "Hưng Yên",
+            "toado": {
+                "vi_do": 20.6469,
+                "kinh_do": 106.051079
+            }
+        },
+        {
+            "ten": "Khánh Hòa",
+            "toado": {
+                "vi_do": 12.238791,
+                "kinh_do": 109.196747
+            }
+        },
+        {
+            "ten": "Kiên Giang",
+            "toado": {
+                "vi_do": 10.015909,
+                "kinh_do": 105.125893
+            }
+        },
+        {
+            "ten": "Kon Tum",
+            "toado": {
+                "vi_do": 14.354524,
+                "kinh_do": 107.988556
+            }
+        },
+        {
+            "ten": "Lai Châu",
+            "toado": {
+                "vi_do": 22.399599,
+                "kinh_do": 103.470833
+            }
+        },
+        {
+            "ten": "Lâm Đồng",
+            "toado": {
+                "vi_do": 11.940419,
+                "kinh_do": 108.458313
+            }
+        },
+        {
+            "ten": "Lạng Sơn",
+            "toado": {
+                "vi_do": 21.853706,
+                "kinh_do": 106.757858
+            }
+        },
+        {
+            "ten": "Lào Cai",
+            "toado": {
+                "vi_do": 22.338086,
+                "kinh_do": 104.148407
+            }
+        },
+        {
+            "ten": "Long An",
+            "toado": {
+                "vi_do": 10.53531,
+                "kinh_do": 106.413078
+            }
+        },
+        {
+            "ten": "Nam Định",
+            "toado": {
+                "vi_do": 20.431045,
+                "kinh_do": 106.162106
+            }
+        },
+        {
+            "ten": "Nghệ An",
+            "toado": {
+                "vi_do": 19.234249,
+                "kinh_do": 104.920067
+            }
+        },
+        {
+            "ten": "Ninh Bình",
+            "toado": {
+                "vi_do": 20.25061,
+                "kinh_do": 105.974998
+            }
+        },
+        {
+            "ten": "Ninh Thuận",
+            "toado": {
+                "vi_do": 11.565423,
+                "kinh_do": 108.997481
+            }
+        },
+        {
+            "ten": "Phú Thọ",
+            "toado": {
+                "vi_do": 21.322739,
+                "kinh_do": 105.162102
+            }
+        },
+        {
+            "ten": "Phú Yên",
+            "toado": {
+                "vi_do": 13.088186,
+                "kinh_do": 109.092876
+            }
+        },
+        {
+            "ten": "Quảng Bình",
+            "toado": {
+                "vi_do": 17.610304,
+                "kinh_do": 106.348747
+            }
+        },
+        {
+            "ten": "Quảng Nam",
+            "toado": {
+                "vi_do": 15.539353,
+                "kinh_do": 108.01911
+            }
+        },
+        {
+            "ten": "Quảng Ngãi",
+            "toado": {
+                "vi_do": 15.12047,
+                "kinh_do": 108.79232
+            }
+        },
+        {
+            "ten": "Quảng Ninh",
+            "toado": {
+                "vi_do": 21.006382,
+                "kinh_do": 107.292511
+            }
+        },
+        {
+            "ten": "Quảng Trị",
+            "toado": {
+                "vi_do": 16.756308,
+                "kinh_do": 107.191692
+            }
+        },
+        {
+            "ten": "Sóc Trăng",
+            "toado": {
+                "vi_do": 9.600181,
+                "kinh_do": 105.980469
+            }
+        },
+        {
+            "ten": "Sơn La",
+            "toado": {
+                "vi_do": 21.328051,
+                "kinh_do": 103.918823
+            }
+        },
+        {
+            "ten": "Tây Ninh",
+            "toado": {
+                "vi_do": 11.351684,
+                "kinh_do": 106.099586
+            }
+        },
+        {
+            "ten": "Thái Bình",
+            "toado": {
+                "vi_do": 20.446302,
+                "kinh_do": 106.336578
+            }
+        },
+        {
+            "ten": "Thái Nguyên",
+            "toado": {
+                "vi_do": 21.594221,
+                "kinh_do": 105.848702
+            }
+        },
+        {
+            "ten": "Thanh Hóa",
+            "toado": {
+                "vi_do": 19.806692,
+                "kinh_do": 105.785533
+            }
+        },
+        {
+            "ten": "Thừa Thiên Huế",
+            "toado": {
+                "vi_do": 16.4498,
+                "kinh_do": 107.56235
+            }
+        },
+        {
+            "ten": "Tiền Giang",
+            "toado": {
+                "vi_do": 10.449332,
+                "kinh_do": 106.34205
+            }
+        },
+        {
+            "ten": "Trà Vinh",
+            "toado": {
+                "vi_do": 9.947271,
+                "kinh_do": 106.342395
+            }
+        },
+        {
+            "ten": "Tuyên Quang",
+            "toado": {
+                "vi_do": 22.09653,
+                "kinh_do": 105.251877
+            }
+        },
+        {
+            "ten": "Vĩnh Long",
+            "toado": {
+                "vi_do": 10.253652,
+                "kinh_do": 105.974998
+            }
+        },
+        {
+            "ten": "Vĩnh Phúc",
+            "toado": {
+                "vi_do": 21.308849,
+                "kinh_do": 105.603485
+            }
+        },
+        {
+            "ten": "Yên Bái",
+            "toado": {
+                "vi_do": 21.722889,
+                "kinh_do": 104.911301
+            }
+        }
+    ]
+}
